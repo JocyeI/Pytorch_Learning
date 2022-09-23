@@ -1,4 +1,4 @@
-<p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
+<p align="center"><img width="40%" src="https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch_logo.png" /></p>
 
 --------------------------------------------------------------------------------
 # Pytorch_Learning
