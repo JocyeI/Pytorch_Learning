@@ -178,7 +178,7 @@ print('Output shape:', correct_list_model(gpu_input).shape)
 
 ## 技巧四
 
-**好好利用 `distributions` **
+**好好利用 `distributions`**
 
 ①：因为 `torch.distributions` 库中的对象和方法实现了分布式。 该`distributions`包包含可参数化的概率分布和采样函数。这允许构建随机计算图和随机梯度估计器以进行优化。这个包通常遵循[TensorFlow Distributions](https://arxiv.org/abs/1711.10604)包的设计。 
 
