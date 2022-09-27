@@ -1,8 +1,8 @@
-<p align="center"><img width="40%" src="https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/pytorch_logo.png" /></p>
+<p align="center"><img width="40%" src="https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/logo/pytorch_logo.png" /></p>
 
 --------------------------------------------------------------------------------
 
-pytorch、强化学习(reinforcement learning)、机器学习(machine learning)、神经网络(neural network)
+Pytorch知识点总结、强化学习(Reinforcement Learning)、机器学习(Machine Learning)、神经网络(Neural Network)
 
 
 PyTorch 是一个 Python 包，它提供了两个高级特性：
