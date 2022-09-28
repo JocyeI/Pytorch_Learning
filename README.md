@@ -34,7 +34,7 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 
 - [第二章 Pytorch简介](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)
 
-- [第三章 Pytorch张量基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F.md)
+- [第三章 Pytorch张量基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F%E5%9F%BA%E7%A1%80.md)
 
 - [第四章 Pytorch自动微分](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Pytorch%E8%87%AA%E5%8A%A8%E5%BE%AE%E5%88%86.md)
 
