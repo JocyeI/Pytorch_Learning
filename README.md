@@ -30,6 +30,7 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 
 # Pytorch_Learning
 
-- [第一章 Pytorch快速入门][(https://github.com/WalhallaSummary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Pytorch%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)]
-- [第二章 Pytorch简介][(https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)]
-- [第二章 Pytorch简介][(https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F.md)
+- [第一章 Pytorch快速入门](https://github.com/WalhallaSummary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Pytorch%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md)
+- [第二章 Pytorch简介](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)
+
+- [第三章 Pytorch张量](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F.md)
