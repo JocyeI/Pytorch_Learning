@@ -34,11 +34,17 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 
 - [第二章 Pytorch简介](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md)
 
-- [第三章 Pytorch张量基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F.md)
+- [第三章 Pytorch张量基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Pytorch%E5%BC%A0%E9%87%8F%E5%9F%BA%E7%A1%80.md)
 
 - [第四章 Pytorch自动微分](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20Pytorch%E8%87%AA%E5%8A%A8%E5%BE%AE%E5%88%86.md)
 
 
 - [第五章 Pytorch模型构建](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%94%E7%AB%A0%20Pytorch%E6%A8%A1%E5%9E%8B%E6%9E%84%E5%BB%BA.md)
+
+- [第六章 Pytorch激活函数](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AD%E7%AB%A0%20Pytorch%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
+
+- [第七章 Pytorch损失函数](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AD%E7%AB%A0%20Pytorch%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
+
+- [第八章 Pytorch优化器](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AD%E7%AB%A0%20Pytorch%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
 
 - [Pytorch怪巧奇技](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/Pytorch%E6%8A%80%E5%B7%A7.md)
