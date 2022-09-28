@@ -2,7 +2,7 @@
 
 ## CUDA简介
 
-[`torch.cuda`](https://pytorch.org/docs/stable/cuda.html#module-torch.cuda)是用于设置和运行库达的操作，它跟着当前所选的GPU，默认情况下，分配的所有CUDA张量都将在该设备上创建，可用使用[`torch.cuda.device`](https://pytorch.org/docs/stable/generated/torch.cuda.device.html#torch.cuda.device)上下文管理管理器更改所选设备。一旦分配了张量，无论所选设备如何，都可用对其执行操作，并且结果将始终放置在与张量相同的设备上。
+[`torch.cuda`](https://pytorch.org/docs/stable/cuda.html#module-torch.cuda)是用于设置和运行库达的操作，它跟着当前所选的GPU，默认情况下，分配的所有CUDA张量都将在该设备上创建，可使用[`torch.cuda.device`](https://pytorch.org/docs/stable/generated/torch.cuda.device.html#torch.cuda.device)上下文管理管理器更改所选设备。一旦分配了张量，无论所选设备如何，都可用对其执行操作，并且结果将始终放置在与张量相同的设备上。
 
 默认情况下不允许跨GPU操作，但``copy_()``和其他类似复制功能的方法有`cuda()`和`to()`，如果不启用对等内存访问，那么任何尝试在分布不同设备上的张量进行操作都会导致错误。
 
