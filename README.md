@@ -48,3 +48,10 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 - [第八章 Pytorch优化器](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%85%AB%E7%AB%A0%20Pytorch%E4%BC%98%E5%8C%96%E5%99%A8.md)
 
 - [Pytorch怪巧奇技](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/Pytorch%E6%8A%80%E5%B7%A7.md)
+
+
+# Reinforcement Learning
+
+- [第一章 强化学习基础](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/RL/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
+
+- [第二章 强化学习算法](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/RL/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.md)
