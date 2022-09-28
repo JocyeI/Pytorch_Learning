@@ -319,7 +319,7 @@ Gradient function for loss = <BinaryCrossEntropyWithLogitsBackward0 object at 0x
 
 ## 计算梯度
 
-为了优化神经网络中参数的权重，需要计算损失函数相对于参数的导数 $$\frac{\\∂loss}{\\∂w}和\frac{\\∂loss}{\\∂b}$$ 的一些固定值：
+为了优化神经网络中参数的权重，需要计算损失函数相对于参数的导数 $$\frac{\\\∂loss}{\\\∂w}和\frac{\\\∂loss}{\\\∂b}$$ 的一些固定值：
 
 ```python
 loss.backward()
