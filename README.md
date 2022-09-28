@@ -26,3 +26,9 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 
 -   替代 NumPy 以使用 GPU 的强大功能。
 -   一个深度学习研究平台，可提供最大的灵活性和速度。
+
+
+# Pytorch_Learning
+
+- [第一章 Pytorch快速入门]((https://github.com/WalhallaSummary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%B8%80%E7%AB%A0%20Pytorch%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.md))
+- [第一章 Pytorch快速入门]((https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20Pytorch%E7%AE%80%E4%BB%8B.md))
