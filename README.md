@@ -57,7 +57,10 @@ PyTorch 是一个 Python 包，它提供了两个高级特性：
 
 - [第十二章 Pytorch Multiprocessing](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%20Pytorch%20multiprocessing.md)
 
+
 - [Pytorch怪巧奇技](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/Pytorch%E6%8A%80%E5%B7%A7.md)
+
+- [Pytorch入门到精通](https://github.com/Walhalla-Summary/Pytorch_Learning/blob/master/pytorch/Pytorch%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.md)
 
 
 # 强化学习
